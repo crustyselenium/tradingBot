@@ -1,0 +1,18 @@
+{
+  "Refined Metal": {
+    "buy": 1,
+    "sell": 1
+  },
+  "Reclaimed Metal": {
+    "buy": 0.33,
+    "sell": 0.33
+  },
+  "Scrap Metal": {
+    "buy": 0.11,
+    "sell": 0.11
+  },
+  "Mann Co. Supply Crate Key": {
+    "buy": 32.33,
+    "sell": 32.66
+  }
+}
