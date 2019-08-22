@@ -10,6 +10,7 @@ Written in JavaScript, this bot logs into an existing steam account and conducts
 * Automatically accepts trades if there is a profit
 * Dump profits to the designated owner upon a steam chat command
 * Update prices of items being traded
+* Only works for TF2 items
 
 # Project Status
 
